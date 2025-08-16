@@ -1,0 +1,16 @@
+{
+  "identifier": "mytheme",
+  "name": "Violet",
+  "description": "My cool theme",
+  "content_type": "SN|ComponentTheme",
+  "area": "themes",
+  "version": "1.0.0",
+  "url": "https://github.com/mcmaboy/violet/blob/main/"
+}
+
+"dock_icon": {
+   "type": "circle",
+   "background_color": #f5ebf8",
+   "foreground_color": "#be97d4",
+   "border_color": #9137c4"
+}
