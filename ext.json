@@ -9,7 +9,7 @@
   "download_url": "https://github.com/mcmaboy/violet/archive/refs/tags/violet.zip",
   "dock_icon": {
     "type": "circle",
-    "background_color": "#F5EBF8",
+    "background_color": "#C049E4",
     "foreground_color": "#BE97D4",
     "border_color": "#9137C4"
   }
