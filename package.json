@@ -1,7 +1,7 @@
 {
   "name": "mcmaboy/violet",
   "version": "1.1.1",
-  "main": "violet-violet/main.css",
+  "main": "main.css",
   "author": "mcmaboy",
   "description": "A violet theme for Standard Notes.",
   "publishConfig": {
@@ -11,7 +11,7 @@
     "name": "Violet",
     "content_type": "SN|Theme",
     "area": "themes",
-    "main": "violet-violet/main.css",
+    "main": "main.css",
     "showInGallery": true
   },
   "scripts": {
