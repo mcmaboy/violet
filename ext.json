@@ -5,7 +5,7 @@
   "area": "themes",
   "description": "A theme with violet colors.",
   "version": "1.0.0",
-  "url": "https://mcmaboy.github.io/violet/main.scss",
+  "url": "https://mcmaboy.github.io/violet/main.css",
   "download_url": "https://github.com/mcmaboy/violet/archive/refs/tags/violet.zip",
   "dock_icon": {
     "type": "circle",
