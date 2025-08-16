@@ -1,8 +1,8 @@
 {
-  "identifier": "mytheme",
+  "identifier": "VioletTheme",
   "name": "Violet",
-  "description": "My cool theme",
-  "content_type": "SN|ComponentTheme",
+  "description": "A violet theme for Standardnotes",
+  "content_type": "SN|Theme",
   "area": "themes",
   "version": "1.0.0",
   "url": "https://github.com/mcmaboy/violet/blob/main/"
