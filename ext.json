@@ -1,10 +1,10 @@
 {
-  "identifier": "mcmaboy.violet-theme",
-  "name": "Violet",
+  "identifier": "mcmaboy.theme",
+  "name": "violet",
   "content_type": "SN|Theme",
   "area": "themes",
   "description": "A theme with violet colors.",
-  "version": "v0.1",
+  "version": "1.0.0",
   "url": "https://mcmaboy.github.io/violet/main.scss",
   "dock_icon": {
     "type": "circle",
