@@ -4,7 +4,7 @@
   --sn-stylekit-neutral-color: #ad89cf;
   --sn-stylekit-neutral-contrast-color: white;
   --sn-stylekit-info-color-darkened: #050505;
-  --sn-stylekit-info-color: #8fce00;
+  --sn-stylekit-info-color: #af6e94;
   --sn-stylekit-info-contrast-color: white;
   --sn-stylekit-success-color: #3f1b61;
   --sn-stylekit-success-contrast-color: white;
@@ -12,16 +12,16 @@
   --sn-stylekit-warning-contrast-color: white;
   --sn-stylekit-danger-color: #f80324;
   --sn-stylekit-danger-contrast-color: white;
-  --sn-stylekit-shadow-color: #be97d4;
+  --sn-stylekit-shadow-color: #744700;
   --sn-stylekit-background-color: #faf5fc;
   --sn-stylekit-border-color: #9137c4;
   --sn-stylekit-foreground-color: black;
-  --navigation-item-selected-background-color: #e3ccf0;
-  --sn-stylekit-info-backdrop-color: #e06666;
-  --sn-stylekit-contrast-background-color: #847196;
+  --navigation-item-selected-background-color: #cc0000;
+  --sn-stylekit-info-backdrop-color: #e0b9f5;
+  --sn-stylekit-contrast-background-color: #9988a9;
   --sn-stylekit-contrast-foreground-color: #300459;
   --sn-stylekit-contrast-border-color: #9137c4;
-  --sn-stylekit-secondary-background-color: #6d5683;
+  --sn-stylekit-secondary-background-color: #5f4479;
   --sn-stylekit-secondary-foreground-color: #d5c3e7;
   --sn-stylekit-secondary-border-color: #9137c4;
   --sn-stylekit-secondary-contrast-background-color: #916ab7;
@@ -39,7 +39,7 @@
   --sn-stylekit-input-border-color: #34223b;
   --sn-stylekit-scrollbar-thumb-color: #8654b4;
   --sn-stylekit-scrollbar-track-border-color: #c7bad4;
-  --sn-stylekit-general-border-radius: 4px;
+  --sn-stylekit-general-border-radius: 10px;
   --sn-stylekit-theme-type: light;
 }
 
